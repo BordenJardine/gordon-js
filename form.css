@@ -1,0 +1,9 @@
+.center {
+	width: 600px;
+	margin: 5px auto;
+}
+
+.error {
+	border-color: red;
+	border-color: pink;
+}

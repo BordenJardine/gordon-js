@@ -1,0 +1,47 @@
+
+.container {
+	width: 600px;
+	margin: 0 auto;
+}
+
+div {
+	padding: 5px;
+}
+
+p {
+	margin: 5px 0 0 0;
+}
+
+.comment {
+	background-color: #ccc;
+	font-family: verdana, sans-serif;
+	padding: 10px;
+	margin: 10px 0;
+}
+
+.inline-block {
+	display: inline-block;
+}
+
+.avatar {
+	width: 50px;
+	height: 50px;
+}
+
+.comment-avatar-container {
+	height: 60px;
+	width: 60px;
+	background-color: #fff;
+	vertical-align: top;
+}
+
+.comment-text-container {
+	min-height: 60px;
+	width: 480px;
+	padding-bottom: 0;
+}
+
+.comment-body {
+	background-color: #eee;
+	padding: 3px;
+}
